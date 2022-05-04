@@ -3,7 +3,7 @@ Wavelet transform is an efficient signal decomposition method, which can be used
 
 # Wavelet mother function
 Different wavelet mother function are availaible such as:
-- Harr
+- Haar
 - Daubechies
 - Symlets
 - Coiﬂets
@@ -17,3 +17,4 @@ Sample illustration of various wavelet mother functions:  (a) haar, (b) db3, (c)
 
 # Example with different wavelet mother function
 PV output of the original in blue compared with the wavelet output with different mother functions (Haar, Daubechies(db3),coiﬂets (coif2), and symlets (sym4))
+![Figure 2](https://github.com/HbkFaouzi/Wavelet-function/blob/main/Figure%202.jpg)
