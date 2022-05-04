@@ -12,3 +12,8 @@ Different wavelet mother function are availaible such as:
 - Mexican Hat 
 
 The most popular wavelet mother functions, including Haar, Daubechies (db3), Coiﬂets (coif2), and Symlets (sym4), are illustrated as following:
+![Figure 1](https://github.com/HbkFaouzi/Wavelet-function/blob/main/Figure%201.jpg)
+Sample illustration of various wavelet mother functions:  (a) haar, (b) db3, (c) coif2, and (d) sym4
+
+# Example with different wavelet mother function
+PV output of the original in blue compared with the wavelet output with different mother functions (Haar, Daubechies(db3),coiﬂets (coif2), and symlets (sym4))
